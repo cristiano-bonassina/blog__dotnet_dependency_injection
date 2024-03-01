@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\blog__dotnet_dependency_injection\blog__dotnet_dependency_injection.csproj" />
+    <ProjectReference Include="..\..\src\blog__dotnet_dependency_injection\blog__dotnet_dependency_injection.csproj" />
   </ItemGroup>
 
 </Project>

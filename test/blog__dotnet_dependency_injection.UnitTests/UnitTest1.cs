@@ -1,7 +1,7 @@
 using blog__dotnet_dependency_injection;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace blog__dotnet_dependency_injection_tests;
+namespace blog__dotnet_dependency_injection.UnitTests;
 
 public class UnitTest1
 {
